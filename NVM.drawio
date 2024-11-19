@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="ZVa7xYgnFf6gPkSq-XxN">
-    <mxGraphModel dx="430" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Eh7rgGoh-DBIJa1UvtAz-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="295" width="520" height="385" as="geometry" />
+        </mxCell>
         <mxCell id="QS36ZWn6xjOG5KxXOorU-1" value="NVM reader" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="120" height="160" as="geometry" />
         </mxCell>
@@ -206,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Eh7rgGoh-DBIJa1UvtAz-9" value="address_out [7:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="570" width="100" height="30" as="geometry" />
+          <mxGeometry x="720" y="575" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eh7rgGoh-DBIJa1UvtAz-10" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="600" width="20" height="20" as="geometry" />
