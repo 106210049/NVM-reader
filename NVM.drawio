@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="715" width="410" height="255" as="geometry" />
         </mxCell>
         <mxCell id="Eh7rgGoh-DBIJa1UvtAz-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="295" width="520" height="385" as="geometry" />
+          <mxGeometry x="160" y="295" width="520" height="365" as="geometry" />
         </mxCell>
         <mxCell id="QS36ZWn6xjOG5KxXOorU-1" value="NVM reader" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="120" height="160" as="geometry" />
@@ -360,6 +360,9 @@
         </mxCell>
         <mxCell id="Eh7rgGoh-DBIJa1UvtAz-46" value="finish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="825" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh7rgGoh-DBIJa1UvtAz-49" value="top module" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="295" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
