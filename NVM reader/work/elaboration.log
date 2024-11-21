@@ -1,0 +1,28 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2024-11-21 09:15:12
+
+Elaboration top modules:
+Verilog Module                NVM_reader_tb
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+NVM_reader_tb           | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+NVM_reader              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+controller              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+PISO                    | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+FSM                     | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Counter                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
