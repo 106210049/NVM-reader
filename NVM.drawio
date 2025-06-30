@@ -614,7 +614,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ibE50Mq0YrUIQofpCtOK" name="PISO">
-    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1851,7 +1851,7 @@
             <mxPoint x="1025" y="380.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2QtVDxwCHGmMKPXioUg-239" value="PISO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="q2QtVDxwCHGmMKPXioUg-239" value="PISO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="360" y="510" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="q2QtVDxwCHGmMKPXioUg-240" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -1912,7 +1912,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6mLwZ8UTD9HeX0PLNjtX" name="counter">
-    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2105,7 +2105,7 @@
         <mxCell id="RcldYHTPW-9LSlNd9zqx-39" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="545" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RcldYHTPW-9LSlNd9zqx-40" value="Counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcldYHTPW-9LSlNd9zqx-40" value="Counter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RcldYHTPW-9LSlNd9zqx-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
